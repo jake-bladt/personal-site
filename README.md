@@ -7,3 +7,4 @@ I'd like to take the light-gray background, dark-gray box-show and title card mo
 
 ## Research links
 * [box-shadow](https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_box-shadow)
+* [CSS reset](https://cssreset.com/scripts/eric-meyer-reset-css/)
